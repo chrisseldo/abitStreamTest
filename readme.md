@@ -38,7 +38,7 @@ There's a ton to look at in FFmpeg's docs [here](https://ffmpeg.org/ffmpeg-forma
 
 ### Serve it
 
-Next, we'll want to play the video on a webpage someplace. We can use [Video.js]()'s player (popular video player library) to handle the HLS playback.
+Next, we'll want to play the video on a webpage someplace. We can use [Video.js](https://videojs.com)'s player (popular video player library) to handle the HLS playback.
 
 ```html
 <!DOCTYPE html>
